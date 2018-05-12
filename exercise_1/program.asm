@@ -1,3 +1,9 @@
+# @Gianmarco Picarella
+# Homework 1
+# create a program that computes the last k sum of integers taken in input with 0 < k < 20.
+# The sequence can vary drastically so i can't define a static array to collect all the integers.
+# This is my implementation in MIPS.
+
 .data
 .align 2
 	

@@ -1,3 +1,12 @@
+# @Gianmarco Picarella
+# Homework 3
+# Create a program that analyze and compute a tree based arithmetic expression.
+# I need to implement 2 functions:
+# 1) Taken an arithmetic tree as input print the mathematical rapresentation
+# 2) Taken an arithmetic tree as input compute the lower level operations 
+# 3) Finally create a loop that repeat the upper functions until the expression's result is calculated 
+# This is my implementation in MIPS.
+
 .data 
 	array: .word -666:1000
 	tokens: .byte '*','+','-','^'
