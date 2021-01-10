@@ -1,4 +1,4 @@
-# assembly-mips-homeworks
+# Assembly mips homeworks
 This is a series of homeworks I worked on during the "Architetture degli elaboratori" class at Sapienza.
 
 ## What the exercises are all about?
