@@ -1,5 +1,5 @@
 # Assembly mips homeworks
-This is a series of homeworks I worked on during the "Architetture degli elaboratori" class at Sapienza.
+This is a series of homework related to the "Architetture degli elaboratori" course at Sapienza.
 
 ## What the exercises are all about?
 - The first exercise requires to compute the last k sum of integers where 0 < k < 20
